@@ -8,10 +8,6 @@
 <br>o arquivo php esta incluso no projeto.
 </ul>
 
-<img src="https://static01.bbi.io/2Wt9Tk.gif"/>
-
-!(image)[https://static01.bbi.io/2Wt9Tk.gif]
-
 <a href="https://github.com/ProHatp">
 Obrigado por ler xD .
 </a>
