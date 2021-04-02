@@ -11,8 +11,9 @@
 [Imgur](https://i.imgur.com/sEGrriv.gifv)
 
 ###Screenshot
-# <img alt="YAP" src="https://i.imgur.com/sEGrriv.gifv">
+# <img alt="YAP" src="https://i.imgur.com/sEGrriv.gif">
 
+<img src="https://i.imgur.com/sEGrriv.gifv"/>
 
 <a href="https://github.com/ProHatp">
 Obrigado por ler xD .
