@@ -8,7 +8,8 @@
 <br>o arquivo php esta incluso no projeto.
 </ul>
 
-<img src="https://imgur.com/sEGrriv"><img src="https://i.imgur.com/sEGrriv.gif" width="40" height="40" />
+![Alt Text](https://i.imgur.com/sEGrriv.gif)
+
 
 <a href="https://github.com/ProHatp">
 Obrigado por ler xD .
