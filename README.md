@@ -8,7 +8,7 @@
 <br>o arquivo php esta incluso no projeto.
 </ul>
 
-[Imgur](https://i.imgur.com/sEGrriv.gifv)
+![Imgur](https://i.imgur.com/sEGrriv.gif)
 
 <a href="https://github.com/ProHatp">
 Obrigado por ler xD .
